@@ -1,0 +1,15 @@
+{
+  "name": "appengine_example",
+  "version": "1.0.0",
+  "description": "Example Express server pushed to Google App Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
